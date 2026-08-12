@@ -4,5 +4,5 @@ Commercial and residential cleaning services website built for AA Cleaning Servi
 
 * **Live Demo:** https://aacleaningservicesllc.com/
 * **Role:** Web Developer & Designer
-* **Features:** Responsive design, service catalog, clear call-to-actions, and mobile optimization.
-* **Technologies:** WordPress, Elementor, HTML5, CSS3, JavaScript.
+* **Features:** Custom web template implementation, Tailwind CSS styling, responsive design, clear call-to-actions, and mobile optimization.
+* **Technologies:** HTML5, CSS3, JavaScript, Tailwind CSS, Web Templates.
